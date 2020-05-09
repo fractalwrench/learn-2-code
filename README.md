@@ -62,7 +62,23 @@ Start the [following tutorial](https://www.codecademy.com/learn/introduction-to-
 
 5. If the reviewer approves the changeset, merge the changes into master. Otherwise alter the changeset as necessary and re-request review.
 
+## Creating a node app
+
+TBD
+
+## Writing a unit test
+
+TBD
+
 ## ReactJS
 See the cheatsheet [here](CHEATSHEETS.md#react-js).
 
+TBD
+
+## Debugging an application
+
+TBD
+
 ## Computer science and algorithms
+
+TBD
